@@ -1,0 +1,27 @@
+F:\RCL\Rage\Serverside\GVMPc by Reworked\RCL\obj\Debug\GVMPc.csprojAssemblyReference.cache
+F:\RCL\Rage\Serverside\GVMPc by Reworked\RCL\obj\Debug\GVMPc.csproj.CoreCompileInputs.cache
+F:\RCL\Rage\Serverside\GVMPc by Reworked\RCL\obj\Debug\GVMPc.csproj.CopyComplete
+F:\RAGEMP\server-files037\bridge\resources\GVMPc\GVMPc.deps.json
+F:\RAGEMP\server-files037\bridge\resources\GVMPc\GVMPc.dll
+F:\RAGEMP\server-files037\bridge\resources\GVMPc\GVMPc.pdb
+F:\RCL\Rage\Serverside\GVMPc by Reworked\RCL\obj\Debug\GVMPc.dll
+F:\RCL\Rage\Serverside\GVMPc by Reworked\RCL\obj\Debug\GVMPc.pdb
+F:\RCL\Rage\Serverside\GVMPc\GVMPc by Reworked\RCL\obj\Debug\GVMPc.csprojAssemblyReference.cache
+F:\RCL\Rage\Serverside\GVMPc\GVMPc by Reworked\RCL\obj\Debug\GVMPc.csproj.CoreCompileInputs.cache
+F:\RCL\Rage\Serverside\GVMPc\GVMPc by Reworked\RCL\obj\Debug\GVMPc.dll
+F:\RCL\Rage\Serverside\GVMPc\GVMPc by Reworked\RCL\obj\Debug\GVMPc.pdb
+F:\RCL\Rage\Serverside\GVMPc\GVMPc by Reworked\RCL\obj\Debug\GVMPc.csproj.CopyComplete
+D:\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.csprojAssemblyReference.cache
+D:\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.csproj.CoreCompileInputs.cache
+D:\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.dll
+D:\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.pdb
+D:\Server Reworked GVMP\bridge\resources\GVMPc\GVMP\GVMPc.deps.json
+D:\Server Reworked GVMP\bridge\resources\GVMPc\GVMP\GVMPc.dll
+D:\Server Reworked GVMP\bridge\resources\GVMPc\GVMP\GVMPc.pdb
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.csprojAssemblyReference.cache
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.csproj.CoreCompileInputs.cache
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\GVMP\GVMPc.deps.json
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\GVMP\GVMPc.dll
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\GVMP\GVMPc.pdb
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.dll
+C:\Users\Ruwen\Desktop\Server Reworked GVMP\bridge\resources\GVMPc\obj\Debug\GVMPc.pdb

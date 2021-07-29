@@ -1,0 +1,10 @@
+{
+	"maxplayers" : 100,
+	"name" : "Hawaii Roleplay | Beta | TS: Bald Verfügbar ", 
+	"gamemode" : "freeroam", 
+	"stream-distance" : 500.0,
+	"announce" : false,
+	"csharp" : "enabled",
+	"port": 22005,
+        "allow-cef-debugging": true
+}

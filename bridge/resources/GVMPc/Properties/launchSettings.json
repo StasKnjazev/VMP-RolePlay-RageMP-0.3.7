@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RCL": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Administrator\\Desktop\\Hawaii Roleplay 1.95\\server.exe",
+      "workingDirectory": "C:\\Users\\Administrator\\Desktop\\Hawaii Roleplay 1.95"
+    }
+  }
+}

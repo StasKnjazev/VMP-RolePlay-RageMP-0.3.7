@@ -1,0 +1,19 @@
+﻿<meta>
+  <info name="HawaiiRoleplay" author="Shard" type="script" />
+  
+  
+  <!-- MySql -->
+  <assembly ref="MySql.Data.dll"/>
+  <assembly ref="System.Data.Common.dll"/>
+  <assembly ref="BouncyCastle.Crypto.dll"/>
+  <assembly ref="Google.Protobuf.dll"/>
+  
+  <!-- JSON -->
+  <assembly ref="Newtonsoft.Json.dll"/>
+
+  <!-- Hashing -->
+  <assembly ref="System.Security.Cryptography.Algorithms.dll"/>
+  <assembly ref="System.Security.Cryptography.Csp.dll"/>
+  <assembly ref="System.Security.Cryptography.Primitives.dll"/>
+  <script src="HawaiiRP/HawaiiRoleplay.dll"/>
+</meta>

@@ -1,0 +1,8 @@
+F:\RAGEMP\server-files\bridge\resources\RCL\netcoreapp2.2\RCL.deps.json
+F:\RAGEMP\server-files\bridge\resources\RCL\netcoreapp2.2\RCL.dll
+F:\RAGEMP\server-files\bridge\resources\RCL\netcoreapp2.2\RCL.pdb
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Release\netcoreapp2.2\RCL.csprojAssemblyReference.cache
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Release\netcoreapp2.2\RCL.csproj.CoreCompileInputs.cache
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Release\netcoreapp2.2\RCL.csproj.CopyComplete
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Release\netcoreapp2.2\RCL.dll
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Release\netcoreapp2.2\RCL.pdb

@@ -1,0 +1,17 @@
+F:\RAGEMP\server-files\dotnet\resources\RCL\RCL.deps.json
+F:\RAGEMP\server-files\dotnet\resources\RCL\RCL.dll
+F:\RAGEMP\server-files\dotnet\resources\RCL\RCL.pdb
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Debug\RCL.csprojAssemblyReference.cache
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Debug\RCL.csproj.CoreCompileInputs.cache
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Debug\RCL.dll
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Debug\RCL.pdb
+F:\RCL\Rage\Serverside\RCL\RCL\obj\Debug\RCL.csproj.CopyComplete
+F:\RAGEMP\server-files\bridge\resources\RCL\RCL.deps.json
+F:\RAGEMP\server-files\bridge\resources\RCL\RCL.dll
+F:\RAGEMP\server-files\bridge\resources\RCL\RCL.pdb
+F:\RAGEMP\server-files037\bridge\resources\RCL\RCL.deps.json
+F:\RAGEMP\server-files037\bridge\resources\RCL\RCL.dll
+F:\RAGEMP\server-files037\bridge\resources\RCL\RCL.pdb
+F:\RAGEMP\server-files 1.1\dotnet\resources\RCL\RCL.deps.json
+F:\RAGEMP\server-files 1.1\dotnet\resources\RCL\RCL.dll
+F:\RAGEMP\server-files 1.1\dotnet\resources\RCL\RCL.pdb
